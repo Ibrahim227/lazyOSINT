@@ -1,2 +1,1 @@
-# lazyOSINT
-lazyOSINT
+LazyOSINT
